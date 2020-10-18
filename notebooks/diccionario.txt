@@ -1,0 +1,3 @@
+cantar:V1
+comer:V2
+vivir:V3
