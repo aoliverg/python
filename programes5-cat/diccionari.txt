@@ -1,0 +1,4 @@
+cantar:V1
+llegir:V2
+menjar:V1A
+jugar:V1B
