@@ -8,8 +8,8 @@ tokenitzador=RegexpTokenizer('[ldsmLDSM]\'|\w+|[^\w\s]+')
 corpus = PlaintextCorpusReader(".", 'DOGC-2015-cat.txt',word_tokenizer=tokenitzador,sent_tokenizer=segmentador)
 
 ocurrencias=corpus.words()
-tipos=set(ocurrencies)
-riquezalexica=len(ocurrencies)/len(tipus)
+tipos=set(ocurrencias)
+riquezalexica=len(ocurrencias)/len(tipos)
 
 print("OCURRENCIAS:",len(ocurrencias))
 print("TIPUS:",len(tipos))
