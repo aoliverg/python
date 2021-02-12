@@ -2,12 +2,12 @@ import nltk
 import pickle
 import codecs
 
-#carreguem l'etiquetador
+#cargamos el etiquetador
 entrada=open('etiquetador-spa.pkl','rb')
 etiquetador=pickle.load(entrada)
 entrada.close()
 
-#carreguem les oracions del corpus de test
+#cargamos las oraciones del corpus de test
 
 entrada=codecs.open("fragmento-wikicorpus-tagged-spa.txt","r",encoding="utf-8")
 

@@ -1,4 +1,4 @@
-arrel="cant"
+raiz="cant"
 t1="o"
 t2="as"
 t3="a"
@@ -6,9 +6,9 @@ t4="amos"
 t5="áis"
 t6="an"
 
-print(arrel+t1)
-print(arrel+t2)
-print(arrel+t3)
-print(arrel+t4)
-print(arrel+t5)
-print(arrel+t6)
+print(raiz+t1)
+print(raiz+t2)
+print(raiz+t3)
+print(raiz+t4)
+print(raiz+t5)
+print(raiz+t6)
