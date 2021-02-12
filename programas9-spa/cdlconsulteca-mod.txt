@@ -1,0 +1,119 @@
+refusal and abandonment of goods	deje de cuenta|rehúsa	Dret mercantil
+abdication	abdicación	Dret constitucional
+abdicate	abdicar	Dret civil
+	adiar|señalar	Dret administratiu
+	adoptante	Dret. Administració pública
+litigator|practising barrister|trial attorney|trial lawyer	abogado de tribunales|abogado procesalista	Dret
+entitlement to exemption or privileges|granting of parliamentary immunity	aforamiento|aforo	Dret penal > Dret processal penal
+drug facilitated sexual assault|drug-facilitated sexual assault|predator rape|DFSA	abuso sexual facilitado por el uso de drogas|agresión sexual facilitada por drogas|ataque sexual facilitado por drogas	Dret
+	levantamiento del velo	Dret
+	alegal	Dret. Administració pública
+	anuente	Dret
+legal year	año civil	Dret. Administració pública
+	apelar	Dret. Administració pública
+	arrendaticio	Dret civil
+	arresto	Dret penal
+	allanamiento a la demanda	Dret processal
+	allanarse <i>[a]</i>	Dret processal
+	allanarse a la demanda	Dret processal
+sexual harassment	acoso sexual	Dret penal
+draft bill	anteproyecto de ley	Dret constitucional
+	blindar	Dret
+Malay boot|Spanish boot	bota española|bota malaya	Dret
+dead drop|dead letter box|dead letter drop|dead-drop	buzón muerto	Dret. Administració pública
+	cabildo|cabildo insular	Dret. Administració pública
+	cabida	Dret civil
+candidate	candidato	Dret electoral
+	frontal de tramitación	Dret. Administració pública
+census	censo electoral	Dret electoral
+cyber espionage|cyber-espionage|cyberspying|Internet espionage	ciberespionaje|espionaje en Internet	Dret
+	clausulado	Dret
+code of conduct	código de conducta	Dret internacional
+criminal compliance	cumplimiento normativo jurídico-penal|cumplimiento normativo penal	Dret
+sale on acceptance|sale on approval|sale on trial	venta a prueba|venta salvo aprobación|venta sujeta a aprobación	Dret mercantil
+	concedente	Dret. Administració pública
+	concursal	Dret civil
+maintenance contract|service agreement|service contract	contrato de mantenimiento	Dret
+	corresponsabilidad	Dret
+Crown	Corona	Dret constitucional
+	cuerpo cierto	Dret civil
+	comiso|decomiso	Dret penal
+	delegante	Dret civil
+	delegatario	Dret civil
+defendant	demandado	Dret processal
+whistle-blower|whistleblower		Dret administratiu
+declassify, to	desclasificar	Dret administratiu
+arrest	detención	Dret processal
+reasoned opinion|substantiated recommendation	dictamen motivado|dictamen razonado	Dret processal
+depositary|depository	depositaría	Dret administratiu
+drug test	drogotest	Dret penal > Dret processal penal
+	edicto	Dret civil
+elections	elecciones	Dret electoral
+elector	elector	Dret electoral
+electorate	electorado	Dret constitucional
+	ordenado empresario	Dret mercantil
+	catastrar	Dret
+enervate, to	enervar	Dret
+seat	escaño	Dret constitucional
+amendment|correction|revision	enmienda|subsanación	Dret
+espionage|spying	espionaje	Dret
+buffer state	estado tampón	Dret. Administració pública
+member state	estado miembro	Dret internacional
+	estatuyente	Dret administratiu
+eurovignette	distintivo europeo|eurodistintivo|euroviñeta	Dret administratiu
+	excepcionar	Dret processal
+	ejecutividad	Dret administratiu
+electoral formula		Dret electoral
+	funcionariado	Dret administratiu
+	garantismo	Dret penal
+front office|front-office		Dret administratiu
+back office|back-office		Dret administratiu
+Chinese water torture	gota china|tormento de gota	Dret
+shadow report	informe alternativo|informe paralelo|informe sombra	Dret. Administració pública
+initiative|legislative initiative	iniciativa legislativa	Dret constitucional
+citizens' initiative|initiative|popular initiative|popular legislative initiative	iniciativa legislativa popular|iniciativa popular|ILP	Dret constitucional
+executory process	juicio ejecutivo	Dret processal
+judiciarize, to	judicializar	Dret processal
+legate	legado	Dret. Administració pública
+legislative drafting	legística|técnicas de legislación	Dret
+gift of residue|residuary bequest|residuary devise|residuary gift|residuary legacy	legado remanente|legado residual|legado residuario	Dret civil > Dret de successions
+freedom to lay submarine cables and pipelines	libertad de tender cables y tuberías submarinas	Dret internacional
+freedom of navigation	libertad de navegación	Dret internacional
+freedom of fishing	libertad de pesca	Dret internacional
+freedom of overflight	libertad de sobrevuelo	Dret internacional
+	libranza	Dret administratiu
+	devengo	Dret fiscal
+	mesa electoral	Dret electoral
+constitutional monarchy|limited monarchy	monarquía constitucional	Dret constitucional
+	monarquía parlamentaria	Dret constitucional
+	multa coercitiva	Dret administratiu
+cease and desist direction|cease and desist letter|cease and desist order	carta de cese y desista|cese y desista|orden de cese y desista	Dret processal
+ballot|voting paper	papeleta de voto	Dret electoral
+	parcelero | parcelera|parcelista	Dret
+	parte bastante	Dret
+loss of consortium	pérdida de beneficios derivados del vínculo conyugal	Dret civil
+	ganancialidad	Dret civil
+dumpster diving|trashing	buceo de contenedores|buceo en la basura	Dret civil
+dumpster diver		Dret civil
+	precautorio	Dret
+	precluir	Dret. Administració pública
+solitary confinement|solitary imprisonment	prisión celular	Dret
+	principio de justicia rogada	Dret processal
+probation	probation	Dret penal
+electoral program	programa electoral	Dret electoral
+	promisorio -ria	Dret civil
+	cuaderno particional	Dret civil
+	rogado	Dret. Administració pública
+confidence motion|motion of no confidence|no-confidence motion|vote of confidence|vote of no confidence	cuestión de confianza|moción de confianza	Dret constitucional
+prequalification questionnaire	cuestionario de preselección	Dret administratiu
+official addition of the vote	recuento de votos	Dret electoral
+	recurso de inconstitucionalidad	Dret constitucional
+	recurso de suplicación	Dret laboral
+referendum	referendo|referéndum	Dret constitucional
+compliance officer	funcionario de cumplimiento | funcionaria de cumplimiento|jefe de cumplimiento | jefa de cumplimiento|oficial de cumplimiento | oficiala de cumplimiento|persona responsable del cumplimiento	Dret
+remainder of estate|residual estate|residuary estate|residue|residue of estate	heredad residual|heredad residuaria|herencia residual|patrimonio residual|sucesión residual	Dret civil > Dret de successions
+	rollo	Dret
+	sucesión a la Corona|sucesión al trono	Dret constitucional
+	testamentifacción	Dret
+	traditorio	Dret civil
+voter	votante	Dret electoral
