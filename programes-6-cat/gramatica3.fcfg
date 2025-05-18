@@ -1,0 +1,29 @@
+% start O
+#############################
+# Regles gramatica
+#############################
+# Regles d’expansió d’O
+O -> SN[NUM=?n] SV[NUM=?n]
+# Regles d’expansió de SN
+SN[NUM=?n] -> Det[NUM=?n, GEN=?g] N[NUM=?n, GEN=?g]
+SN[NUM=?n] -> Det[NUM=?n, GEN=?g] N[NUM=?n, GEN=?g] SP
+# Regles d’expansió de SV
+SV[NUM=?n] -> V[NUM=?n]
+SV[NUM=?n] -> V[NUM=?n] SN
+SV[NUM=?n] -> V[NUM=?n] SN
+SV[NUM=?n] -> V[NUM=?n] SN SP
+SP -> Prep N
+#############################
+# Regles lèxiques
+#############################
+Det[NUM=sg, GEN=m] -> 'el' | 'un'
+Det[NUM=sg, GEN=f] -> 'la' | 'una'
+Det[NUM=pl, GEN=m] -> 'els' | 'uns'
+Det[NUM=pl, GEN=f] -> 'les' | 'uns'
+N[NUM=sg, GEN=m] -> 'nen' | 'entrepà' | 'formatge'
+N[NUM=sg, GEN=f] -> 'nena' | 'casa'
+N[NUM=pl, GEN=m] -> 'nens' | 'entrepans' | 'formatges'
+N[NUM=pl, GEN=f] -> 'nenes' | 'cases'
+V[NUM=sg] -> 'menja' | 'canta'
+V[NUM=pl] -> 'mengen' | 'canten'
+Prep -> 'de' | 'a'
