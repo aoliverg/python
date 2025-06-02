@@ -1,0 +1,119 @@
+refusal and abandonment of goods	n f	Dret mercantil
+abdication	n f	Dret constitucional
+abdicate	v tr	Dret civil
+	v tr	Dret administratiu
+	n m, f	Dret. Administració pública
+litigator|practising barrister|trial attorney|trial lawyer	n m, f	Dret
+entitlement to exemption or privileges|granting of parliamentary immunity	n m	Dret penal > Dret processal penal
+drug facilitated sexual assault|drug-facilitated sexual assault|predator rape|DFSA	n f	Dret
+	n m	Dret
+	adj	Dret. Administració pública
+	adj	Dret
+legal year	n m	Dret. Administració pública
+	v tr	Dret. Administració pública
+	adj	Dret civil
+	n m	Dret penal
+	n m	Dret processal
+	v prep	Dret processal
+	v intr	Dret processal
+sexual harassment	n m	Dret penal
+draft bill	n m	Dret constitucional
+	v tr	Dret
+Malay boot|Spanish boot	n f	Dret
+dead drop|dead letter box|dead letter drop|dead-drop	n f	Dret. Administració pública
+	n m	Dret. Administració pública
+	n f	Dret civil
+candidate	n m, f	Dret electoral
+	n f	Dret. Administració pública
+census	n m	Dret electoral
+cyber espionage|cyber-espionage|cyberspying|Internet espionage	n m	Dret
+	n m	Dret
+code of conduct	n m	Dret internacional
+criminal compliance	n m	Dret
+sale on acceptance|sale on approval|sale on trial	n f	Dret mercantil
+	n m, f	Dret. Administració pública
+	adj	Dret civil
+maintenance contract|service agreement|service contract	n m	Dret
+	n f	Dret
+Crown	n f	Dret constitucional
+	n m	Dret civil
+	n m	Dret penal
+	n m, f	Dret civil
+	n m, f	Dret civil
+defendant	n m, f	Dret processal
+whistle-blower|whistleblower	n m, f	Dret administratiu
+declassify, to	v tr	Dret administratiu
+arrest	n f	Dret processal
+reasoned opinion|substantiated recommendation	n m	Dret processal
+depositary|depository	n f	Dret administratiu
+drug test	n m	Dret penal > Dret processal penal
+	n m	Dret civil
+elections	n f pl	Dret electoral
+elector	n m, f	Dret electoral
+electorate	n m	Dret constitucional
+	n m	Dret mercantil
+	v tr	Dret
+enervate, to	v tr	Dret
+seat	n m	Dret constitucional
+amendment|correction|revision	n f	Dret
+espionage|spying	n m	Dret
+buffer state	n m	Dret. Administració pública
+member state	n m	Dret internacional
+	adj	Dret administratiu
+eurovignette	n f	Dret administratiu
+	v tr	Dret processal
+	n f	Dret administratiu
+electoral formula	n f	Dret electoral
+	n m	Dret administratiu
+	n m	Dret penal
+front office|front-office	n f	Dret administratiu
+back office|back-office	n f	Dret administratiu
+Chinese water torture	n f	Dret
+shadow report	n m	Dret. Administració pública
+initiative|legislative initiative	n f	Dret constitucional
+citizens' initiative|initiative|popular initiative|popular legislative initiative	n f	Dret constitucional
+executory process	n m	Dret processal
+judiciarize, to	v tr	Dret processal
+legate	n m, f	Dret. Administració pública
+legislative drafting	n f	Dret
+gift of residue|residuary bequest|residuary devise|residuary gift|residuary legacy	n m	Dret civil > Dret de successions
+freedom to lay submarine cables and pipelines	n f	Dret internacional
+freedom of navigation	n f	Dret internacional
+freedom of fishing	n f	Dret internacional
+freedom of overflight	n f	Dret internacional
+	n f	Dret administratiu
+	n f	Dret fiscal
+	n f	Dret electoral
+constitutional monarchy|limited monarchy	n f	Dret constitucional
+	n f	Dret constitucional
+	n f	Dret administratiu
+cease and desist direction|cease and desist letter|cease and desist order	n f	Dret processal
+ballot|voting paper	n f	Dret electoral
+	n m, f	Dret
+	n f	Dret
+loss of consortium	n f	Dret civil
+	n f	Dret civil
+dumpster diving|trashing	n f	Dret civil
+dumpster diver	n m, f	Dret civil
+	adj	Dret
+	v tr	Dret. Administració pública
+solitary confinement|solitary imprisonment	n f	Dret
+	n m	Dret processal
+probation	n f	Dret penal
+electoral program	n m	Dret electoral
+	adj	Dret civil
+	n m	Dret civil
+	adj	Dret. Administració pública
+confidence motion|motion of no confidence|no-confidence motion|vote of confidence|vote of no confidence	n f	Dret constitucional
+prequalification questionnaire	n m	Dret administratiu
+official addition of the vote	n m	Dret electoral
+	n m	Dret constitucional
+	n m	Dret laboral
+referendum	n m	Dret constitucional
+compliance officer	n m, f	Dret
+remainder of estate|residual estate|residuary estate|residue|residue of estate	n m	Dret civil > Dret de successions
+	n m	Dret
+	n f	Dret constitucional
+	n f	Dret
+	adj	Dret civil
+voter	n m, f	Dret electoral
