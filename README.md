@@ -10,28 +10,26 @@ This repository contains files and notebooks for the teaching materials for the 
 
 at the Universitat Oberta de Catalunya (UOC - www.uoc.edu). These subjects are taught in Spanish and Catalan.
 
-The teaching materials are reachable at:
-
-- (in Spanish) https://xwiki.recursos.uoc.edu/wiki/matm21564es
-- (in Catalan) https://xwiki.recursos.uoc.edu/wiki/matm21564ca
-
 Feel free to use and share them.
 
 ## Sylabus
 
 (In Spanish)
 
-1. Introducción
-2. Elementos básicos del lenguaje de programación Python
-3. Natural Language Toolkit
-4. Análisis textual y procesamiento de corpus
-5. Etiquetado morfosintáctico
-6. Formalismos sintácticos
-7. Programas bien estructurados
-8. WordNet u procesamiento semántico
-9. Tratamiento de formatos
-10. Tratamiento de archivos XML con Python
-11 Bases de datos
+[1. Introducción](https://github.com/aoliverg/python/wiki/1.-Introducci%C3%B3n)
+
+[2. Elementos básicos del lenguaje de programación Python](https://github.com/aoliverg/python/wiki/2.-Elementos-b%C3%A1sicos-del-lenguaje-de-programaci%C3%B3n-Python)
+
+[3. Natural Language Toolkit](https://github.com/aoliverg/python/wiki/3.-Natural-Language-Toolkit)
+
+[4. Análisis textual y procesamiento de corpus](https://github.com/aoliverg/python/wiki/4.-An%C3%A1lisis-textual-y-procesamiento-de-corpus)
+
+[5. Etiquetado morfosintáctico](https://github.com/aoliverg/python/wiki/5.-Etiquetado-morfosint%C3%A1ctico)
+
+[9. Tratamiento de formatos](https://github.com/aoliverg/python/wiki/9.-Tratamiento-de-formatos)
+
+[10. Tratamiento de archivos XML con Python](https://github.com/aoliverg/python/wiki/10.-Tratamiento-de-archivos-XML-con-Python)
+
 
 (In Catalan)
 
