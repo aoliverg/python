@@ -34,16 +34,26 @@ Feel free to use and share them.
 (In Catalan)
 
 1. [Introducció](https://github.com/aoliverg/python/wiki/1.-Introducci%C3%B3)
-2. Elements bàsics del llenguatge de programació Python
-3. Natural Language Toolkit (NLTK)
-4. Anàlisi textual i processament de corpus
-5. Etiquetatge morfosintàctic
-6. Formalismes sintàctics
-7. Programes ben estructurats
-8. WordNet i processament semàntic
-9. Tractament de formats
-10. Tractament d'arxius XML amb Python
-11. Bases de dades
+
+[2. Elements bàsics del llenguatge de programació Python](https://github.com/aoliverg/python/wiki/2.-Elements-b%C3%A0sics-del-llenguatge-de-programaci%C3%B3-Python)
+
+[3. Natural Language Toolkit (NLTK)](https://github.com/aoliverg/python/wiki/3.-Natural-Language-Toolkit-(NLTK))
+
+[4. Anàlisi textual i processament de corpus](https://github.com/aoliverg/python/wiki/4.-An%C3%A0lisi-textual-i-processament-de-corpus)
+
+[5. Etiquetatge morfosintàctic](https://github.com/aoliverg/python/wiki/5.-Etiquetatge-morfosint%C3%A0ctic)
+
+[6. Formalismes sintàctics](https://github.com/aoliverg/python/wiki/6.-Formalismes-sint%C3%A0ctics)
+
+[7. Programes ben estructurats](https://github.com/aoliverg/python/wiki/7.-Programes-ben-estructurats)
+
+[8. WordNet i processament semàntic](https://github.com/aoliverg/python/wiki/8.-WordNet-i-processament-sem%C3%A0ntic)
+
+[9. Tractament de formats](https://github.com/aoliverg/python/wiki/9.-Tractament-de-formats)
+
+[10. Tractament d'arxius XML amb Python](https://github.com/aoliverg/python/wiki/10.-Tractament-d'arxius-XML-amb-Python)
+
+[11. Bases de dades](https://github.com/aoliverg/python/wiki/11.-Bases-de-dades)
 
 ## Organisation of the files
 
