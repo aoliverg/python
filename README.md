@@ -33,7 +33,7 @@ Feel free to use and share them.
 
 (In Catalan)
 
-1. [Introducció](https://github.com/aoliverg/python/wiki/1.-Introducci%C3%B3)
+[1. Introducció](https://github.com/aoliverg/python/wiki/1.-Introducci%C3%B3)
 
 [2. Elements bàsics del llenguatge de programació Python](https://github.com/aoliverg/python/wiki/2.-Elements-b%C3%A0sics-del-llenguatge-de-programaci%C3%B3-Python)
 
