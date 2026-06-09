@@ -10,4 +10,4 @@ svg = displacy.render(doc, style="dep", jupyter=False)
 
 # El guardem en un fitxer HTML per obrir-lo amb el navegador
 Path("arbre_sintactic.html").write_text(svg, encoding="utf-8")
-print("\n✅ Obre el fitxer 'arbre_sintactic.html' per veure l'anàlisi gràfica.")
+print("\nObre el fitxer 'arbre_sintactic.html' per veure l'anàlisi gràfica.")
