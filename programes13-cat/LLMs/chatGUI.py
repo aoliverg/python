@@ -64,7 +64,7 @@ class IAPlayground:
     def carregar_model(self):
         params = {
             "device_map": "auto",
-            "trust_remote_code": True,
+            "trust_remote_code": False,
             "dtype": "auto",
             "model_kwargs": {}
         }
