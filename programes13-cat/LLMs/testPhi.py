@@ -15,7 +15,7 @@ def genera_resposta(prompt, model_id):
         "text-generation",
         model=model_id,
         device_map="auto",
-        trust_remote_code=True,
+        trust_remote_code=Flase,
         dtype="auto", 
         # Per defecte fem servir 'sdpa' (natiu de PyTorch), que és més ràpid que 'eager'
         model_kwargs={"attn_implementation": "sdpa"} 
